@@ -4,6 +4,7 @@
   * scope triangle
  * development
   * development life cycle
+  * documentation
   * toolchain
   * local env for development
   * type systems
@@ -22,8 +23,8 @@
    * Integration test
    * Mock
  * runtime
-  * maintance
-  * troublkeshooting
+  * maintaning
+  * troubleshooting
   * debugging
   * A/B testing
   * monitoring
