@@ -2,25 +2,31 @@
 * software\nquality
  * project
   * scope triangle
- * development
   * development life cycle
-  * documentation
+   *_ requirements
+   *_ documentation
+ * development
   * toolchain
-  * local env for development
-  * type systems
-   *_ static
-   *_ dynamic
-   *_ weak
-   *_ strong
+  * local environmnet
   * design
+   * architecture
+   * type systems
+    *_ static
+    *_ dynamic
+    *_ weak
+    *_ strong
    * DDD 
   * formal verification
   * testing
-   * TDD
-   * Fuzzing
-   * BDD
-   * Unit test
-   * Integration test
+   * types
+    *_ unit test
+    *_ integration test
+    *_ performance
+    *_ load
+   * approach
+    *_ TDD
+    *_ Fuzzing
+    *_ BDD
    * Mock
  * runtime
   * maintaning
@@ -28,4 +34,5 @@
   * debugging
   * A/B testing
   * monitoring
+  * pagerduty
 @endmindmap
