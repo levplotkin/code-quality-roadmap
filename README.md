@@ -1,4 +1,4 @@
-# Code quality roadmap
+# software quality roadmap
 
 [presentation link](https://docs.google.com/presentation/d/18azhReloCdjwvfW7C4ce3Yi9Kz64Fy0x93JE3EV0IZ0/edit?usp=sharing)
 
