@@ -1,6 +1,9 @@
 @startmindmap
 * software\nquality
- * code
+ * project
+  * scope triangle
+ * development
+  * development life cycle
   * toolchain
   * local env for development
   * type systems
@@ -13,6 +16,7 @@
   * formal verification
   * testing
    * TDD
+   * Fuzzing
    * BDD
    * Unit test
    * Integration test
