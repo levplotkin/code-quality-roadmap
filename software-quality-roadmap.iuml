@@ -1,25 +1,26 @@
 @startmindmap
-+ software\nquality
-++ code
-+++ toolchain
-+++ local env for development
-+++ type systems
-++++_ static
-++++_ dynamic
-++++_ weak
-++++_ strong
-+++ design
-++++ DDD 
-+++ testing
-++++ TDD
-++++ BDD
-++++ Unit test
-++++ Integration test
-++++ Mock
--- runtime
---- maintance
---- troublkeshooting
---- debugging
----- A/B testing
---- monitoring
+* software\nquality
+ * code
+  * toolchain
+  * local env for development
+  * type systems
+   *_ static
+   *_ dynamic
+   *_ weak
+   *_ strong
+  * design
+   * DDD 
+  * formal verification
+  * testing
+   * TDD
+   * BDD
+   * Unit test
+   * Integration test
+   * Mock
+ * runtime
+  * maintance
+  * troublkeshooting
+  * debugging
+  * A/B testing
+  * monitoring
 @endmindmap
