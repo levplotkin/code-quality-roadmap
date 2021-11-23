@@ -16,6 +16,11 @@
     *_ weak
     *_ strong
    * DDD 
+   * Acronyms
+    *_ SOLID
+    *_ DRY
+    *_ KISS
+    *_ YAGNI
   * formal verification
   * testing
    * types
@@ -30,6 +35,7 @@
    * Mock
  * runtime
   * maintaning
+  * logging
   * troubleshooting
   * debugging
   * A/B testing
