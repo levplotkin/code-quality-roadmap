@@ -8,6 +8,8 @@
  * development
   * toolchain
   * local environmnet
+  * refactoring
+  * code review
   * design
    * architecture
    * type systems
@@ -22,6 +24,7 @@
     *_ KISS
     *_ YAGNI
   * formal verification
+  * static code analysis
   * constraint programming
   * software visualization
    *_ x-ray eclipse
