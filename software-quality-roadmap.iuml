@@ -22,6 +22,10 @@
     *_ KISS
     *_ YAGNI
   * formal verification
+  * constraint programming
+  * software visualization
+   *_ x-ray eclipse
+   *_ CodeSee
   * testing
    * types
     *_ unit test
