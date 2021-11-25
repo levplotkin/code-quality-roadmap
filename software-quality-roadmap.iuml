@@ -5,8 +5,11 @@
   * development life cycle
    *_ requirements
    *_ documentation
+   *_ acceptance testing
  * development
   * toolchain
+    * dependancy managment
+    * source manavment
   * local environmnet
   * refactoring
   * code review
