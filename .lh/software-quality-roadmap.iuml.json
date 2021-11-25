@@ -1,0 +1,30 @@
+{
+    "sourceFile": "software-quality-roadmap.iuml",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 3,
+            "patches": [
+                {
+                    "date": 1637859201374,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1637859207276,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,10 +9,10 @@\n  * development\n   * toolchain\n     * dependancy managment\n     * source manavment\n+  * local environmnet\n     * ide\n-  * local environmnet\n   * refactoring\n   * code review\n   * design\n    * architecture\n"
+                },
+                {
+                    "date": 1637859216577,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,8 +11,9 @@\n     * dependancy managment\n     * source manavment\n   * local environmnet\n     * ide\n+    * local hosting\n   * refactoring\n   * code review\n   * design\n    * architecture\n"
+                },
+                {
+                    "date": 1637859327716,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -42,9 +42,9 @@\n     *_ performance\n     *_ load\n    * approach\n     *_ TDD\n-    \n+    *\n     *_ Fuzzing\n     *_ BDD\n    * Mock\n  * runtime\n"
+                }
+            ],
+            "date": 1637859201374,
+            "name": "Commit-0",
+            "content": "@startmindmap\n* software\\nquality\n * project\n  * scope triangle\n  * development life cycle\n   *_ requirements\n   *_ documentation\n   *_ acceptance testing\n * development\n  * toolchain\n    * dependancy managment\n    * source manavment\n    * ide\n  * local environmnet\n  * refactoring\n  * code review\n  * design\n   * architecture\n   * type systems\n    *_ static\n    *_ dynamic\n    *_ weak\n    *_ strong\n   * DDD \n   * Acronyms\n    *_ SOLID\n    *_ DRY\n    *_ KISS\n    *_ YAGNI\n  * formal verification\n  * static code analysis\n  * constraint programming\n  * software visualization\n   *_ x-ray eclipse\n   *_ CodeSee\n  * testing\n   * types\n    *_ unit test\n    *_ integration test\n    *_ code coverage\n    *_ performance\n    *_ load\n   * approach\n    *_ TDD\n    *_ Fuzzing\n    *_ BDD\n   * Mock\n * runtime\n  * maintance\n  * logging\n  * troubleshooting\n  * debugging\n  * A/B testing\n  * monitoring\n  * pagerduty\n@endmindmap\n"
+        }
+    ]
+}
