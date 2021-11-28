@@ -1,20 +1,27 @@
 @startmindmap
-* software\nquality
+* software\n quality
  * project
   * scope triangle
+   *_ time
+   *_ money
+   *_ quality
   * development life cycle
    *_ requirements
    *_ documentation
    *_ acceptance testing
  * development
-  * toolchain
-    * dependancy managment
-    * source manavment
-  * local environmnet
-    * ide
-    * local hosting
-  * refactoring
-  * code review
+  * local environment
+   * toolchain
+    * dependency management
+    * source management
+   * ide
+   * local hosting
+  * best practices
+   *_ refactoring
+   *_ code review
+   *_ formal verification
+   *_ static code analysis
+   *_ constraint programming
   * design
    * architecture
    * type systems
@@ -28,9 +35,6 @@
     *_ DRY
     *_ KISS
     *_ YAGNI
-  * formal verification
-  * static code analysis
-  * constraint programming
   * software visualization
    *_ x-ray eclipse
    *_ CodeSee
@@ -46,12 +50,13 @@
     *_ Fuzzing
     *_ BDD
    * Mock
+ * maintenance
  * runtime
-  * maintance
   * logging
   * troubleshooting
   * debugging
   * A/B testing
   * monitoring
-  * pagerduty
+  * alerting
+   *_ pagerduty
 @endmindmap
