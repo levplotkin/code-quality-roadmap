@@ -10,6 +10,7 @@
    *_ documentation
    *_ acceptance testing
  * development
+  * polyglot
   * local environment
    * toolchain
     * dependency management
@@ -22,6 +23,7 @@
    *_ formal verification
    *_ static code analysis
    *_ constraint programming
+   *_ design pattens
   * design
    * architecture
    * type systems
@@ -41,6 +43,8 @@
   * testing
    * types
     *_ unit test
+     *_ architecture unit test
+      *_ archunit
     *_ integration test
     *_ code coverage
     *_ performance
@@ -53,6 +57,7 @@
  * maintenance
  * runtime
   * logging
+  * tracing
   * troubleshooting
   * debugging
   * A/B testing
