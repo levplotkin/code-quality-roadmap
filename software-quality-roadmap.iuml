@@ -24,6 +24,8 @@
    *_ static code analysis
    *_ constraint programming
    *_ design pattens
+   *_ loose coupling
+   *_ high cohesion
   * design
    * architecture
    * type systems
