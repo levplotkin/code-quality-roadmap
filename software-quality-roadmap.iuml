@@ -8,7 +8,6 @@
   * development life cycle
    *_ requirements
    *_ documentation
-   *_ acceptance testing
  * development
   * polyglot
   * local environment
@@ -47,7 +46,10 @@
     *_ unit test
      *_ architecture unit test
       *_ archunit
-    *_ integration test
+    * integration test
+     *_ Fit
+    * acceptance testing
+     *_ FitNesse
     *_ code coverage
     *_ performance
     *_ load
